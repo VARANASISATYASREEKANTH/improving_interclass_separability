@@ -1,4 +1,4 @@
-# improving_interclass_separability
+# Improving Interclass Separability and Compacting Intraclass
 collection of articles on increasing inter class separability and compacting intra class 
 
 
