@@ -18,3 +18,7 @@ Semi-supervised semantic segmentation using CutMix and Colour Augmentation	https
 [7] Orthogonal Projection Loss: Increasing inter class separability(https://github.com/kahnchana/opl)
 
 [8] Adaptive Inter-Class Similarity Distillation for Semantic Segmentation	https://github.com/AmirMansurian/AICSD
+
+[9] Sampath, V., Maurtua, I., Aguilar Martín, J.J. et al. A survey on generative adversarial networks for imbalance problems in computer vision tasks. J Big Data 8, 27 (2021). https://doi.org/10.1186/s40537-021-00414-0
+
+[10]
