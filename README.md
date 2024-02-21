@@ -21,4 +21,4 @@ Semi-supervised semantic segmentation using CutMix and Colour Augmentation	https
 
 [9] Sampath, V., Maurtua, I., Aguilar Martín, J.J. et al. A survey on generative adversarial networks for imbalance problems in computer vision tasks. J Big Data 8, 27 (2021). https://doi.org/10.1186/s40537-021-00414-0
 
-[10]
+[10]Qian Y, Expert P, Panzarasa P, Barahona M. Geometric graphs from data to aid classification tasks with Graph Convolutional Networks. Patterns (N Y). 2021 Apr 9;2(4):100237. doi: 10.1016/j.patter.2021.100237. PMID: 33982027; PMCID: PMC8085612.
