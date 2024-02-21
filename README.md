@@ -11,7 +11,10 @@ collection of articles on increasing inter class separability and compacting int
 [4] Joint Representation Diversification(https://github.com/YangLin122/JRD)
 Semi-supervised semantic segmentation using CutMix and Colour Augmentation	https://github.com/Britefury/cutmix-semisup-seg
 
-max-separation-as-inductive-bias	https://github.com/tkasarla/max-separation-as-inductive-bias
-Intra-class Feature Variation Distillation for Semantic Segmentation	https://github.com/YukangWang/IFVD
-Orthogonal Projection Loss: Increasing inter class separability	https://github.com/kahnchana/opl
-Adaptive Inter-Class Similarity Distillation for Semantic Segmentation	https://github.com/AmirMansurian/AICSD
+[5] Max-separation-as-inductive-bias(https://github.com/tkasarla/max-separation-as-inductive-bias)
+
+[6] Intra-class Feature Variation Distillation for Semantic Segmentation(https://github.com/YukangWang/IFVD)
+
+[7] Orthogonal Projection Loss: Increasing inter class separability(https://github.com/kahnchana/opl)
+
+[8] Adaptive Inter-Class Similarity Distillation for Semantic Segmentation	https://github.com/AmirMansurian/AICSD
