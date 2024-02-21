@@ -19,6 +19,10 @@ Semi-supervised semantic segmentation using CutMix and Colour Augmentation	https
 
 [8] Adaptive Inter-Class Similarity Distillation for Semantic Segmentation	https://github.com/AmirMansurian/AICSD
 
-[9] Sampath, V., Maurtua, I., Aguilar Martín, J.J. et al. A survey on generative adversarial networks for imbalance problems in computer vision tasks. J Big Data 8, 27 (2021). https://doi.org/10.1186/s40537-021-00414-0
+[9] Class-Aware Regularizations for Semantic Segmentation	(https://github.com/edwardyehuang/CAR)	
 
-[10]Qian Y, Expert P, Panzarasa P, Barahona M. Geometric graphs from data to aid classification tasks with Graph Convolutional Networks. Patterns (N Y). 2021 Apr 9;2(4):100237. doi: 10.1016/j.patter.2021.100237. PMID: 33982027; PMCID: PMC8085612.  Data and code availability The datasets for graph construction can be found at https://github.com/haczqyf/ggc/tree/master/ggc/data. The code for graph construction can be found at https://github.com/haczqyf/ggc. The sources for other code (e.g., GCN and graph sparsification) are described in Note S3. The algorithm complexity of our proposed pipeline has been discussed in Note S4. The run time and memory requirements have been described in Note S5.
+[10] Mining Inter class Characteristics for Improved MetricLearning	(https://github.com/Confusezius/Deep-Metric-Learning-Baselines)	
+
+[11] Sampath, V., Maurtua, I., Aguilar Martín, J.J. et al. A survey on generative adversarial networks for imbalance problems in computer vision tasks. J Big Data 8, 27 (2021). https://doi.org/10.1186/s40537-021-00414-0
+
+[12] Qian Y, Expert P, Panzarasa P, Barahona M. Geometric graphs from data to aid classification tasks with Graph Convolutional Networks. Patterns (N Y). 2021 Apr 9;2(4):100237. doi: 10.1016/j.patter.2021.100237. PMID: 33982027; PMCID: PMC8085612.  Data and code availability The datasets for graph construction can be found at https://github.com/haczqyf/ggc/tree/master/ggc/data. The code for graph construction can be found at https://github.com/haczqyf/ggc. The sources for other code (e.g., GCN and graph sparsification) are described in Note S3. The algorithm complexity of our proposed pipeline has been discussed in Note S4. The run time and memory requirements have been described in Note S5.
